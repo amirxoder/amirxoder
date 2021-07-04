@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amirxoder
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning JS
+- Hi, I’m @amirxoder
+- I’m interested in coding
+- I’m currently learning JS
 
 <!---
 amirxoder/amirxoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
